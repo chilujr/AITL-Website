@@ -1,6 +1,9 @@
-Thanks for downloading this template!
+Hi there, thanks for checking out my Repo!
 
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a website built for my client AITL Mining & Logistics (Zambia)
+
+Core Concept:
+
+- Basic company website detailing what they do, services, and clientele.
+- The main focus was on UI design and User Experience.
+- Back end functionality is found in the contact section via PHPMailer.
